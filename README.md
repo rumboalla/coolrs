@@ -1,2 +1,10 @@
-# coolrs
-CoolRS is a collection of Renderscript effects
+# CoolRs
+CoolRs is a collection of Renderscript effects.
+
+# License
+
+# Fire
+
+# Text Fire
+
+# TODO
