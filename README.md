@@ -12,14 +12,26 @@ CoolRs is a collection of Android Renderscript effects.
 ![Ice](https://github.com/rumboalla/coolrs/raw/master/screenshots/icetext.gif) | ![Pink](https://github.com/rumboalla/coolrs/raw/master/screenshots/pinktext.gif) | ![Purple](https://github.com/rumboalla/coolrs/raw/master/screenshots/purpletext.gif) | 
 
 # Color
+![Grayscale](https://github.com/rumboalla/coolrs/raw/master/screenshots/grayscale.png) | ![Polaroid](https://github.com/rumboalla/coolrs/raw/master/screenshots/polaroid.png) | ![Invert](https://github.com/rumboalla/coolrs/raw/master/screenshots/invert.png) | ![BlackAndWhite](https://github.com/rumboalla/coolrs/raw/master/screenshots/blackandwhite.png)| ![Sepia](https://github.com/rumboalla/coolrs/raw/master/screenshots/sepia.png)
+------------ | ------------- | ------------- | ------------- | -------------
+![Brightness](https://github.com/rumboalla/coolrs/raw/master/screenshots/brightness.png) | ![Saturate](https://github.com/rumboalla/coolrs/raw/master/screenshots/saturate.png) | ![Offset](https://github.com/rumboalla/coolrs/raw/master/screenshots/offset.png) | ![Histogram](https://github.com/rumboalla/coolrs/raw/master/screenshots/histogram.png) |
 
 # Filter
+![Blur](https://github.com/rumboalla/coolrs/raw/master/screenshots/blur.png) | ![Sharpen](https://github.com/rumboalla/coolrs/raw/master/screenshots/sharpen.png) | ![Edge](https://github.com/rumboalla/coolrs/raw/master/screenshots/edge.png)
+------------ | ------------- | -------------
+![Emboss](https://github.com/rumboalla/coolrs/raw/master/screenshots/emboss.png) | ![BoxBlur](https://github.com/rumboalla/coolrs/raw/master/screenshots/boxblur.png) | ![Bloom](https://github.com/rumboalla/coolrs/raw/master/screenshots/bloom.png) 
 
 # Conway's Game of Life
+![Blur](https://github.com/rumboalla/coolrs/raw/master/screenshots/conway.gif)
 
 # Turmite
+![Turmite1](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite1.gif) | ![Turmite2](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite2.gif) | ![Turmite3](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite3.gif) | ![Turmite4](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite4.gif) 
+------------ | ------------- | ------------- | -------------
+![Turmite5](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite5.gif) | ![Turmite6](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite6.gif) | ![Turmite7](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite7.gif) | 
 
 # Transition
+![Horizontal](https://github.com/rumboalla/coolrs/raw/master/screenshots/horizontal.gif) | ![Vertical](https://github.com/rumboalla/coolrs/raw/master/screenshots/vertical.gif) | ![Blend](https://github.com/rumboalla/coolrs/raw/master/screenshots/blend.gif)
+------------ | ------------- | -------------
 
 # License
 Copyright © 2019 rumboalla
