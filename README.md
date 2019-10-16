@@ -27,7 +27,7 @@ CoolRs is a collection of Android Renderscript effects.
 # Turmite
 ![Turmite1](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite1.gif) | ![Turmite2](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite2.gif) | ![Turmite3](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite3.gif) | ![Turmite4](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite4.gif) 
 ------------ | ------------- | ------------- | -------------
-![Turmite5](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite5.gif) | ![Turmite6](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite6.gif) | ![Turmite7](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite7.gif) | 
+![Turmite5](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite5.gif) | ![Turmite6](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite6.gif) | ![Turmite7](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite7.gif) | ![Turmite8](https://github.com/rumboalla/coolrs/raw/master/screenshots/turmite8.gif)
 
 # Transition
 ![Horizontal](https://github.com/rumboalla/coolrs/raw/master/screenshots/horizontal.gif) | ![Vertical](https://github.com/rumboalla/coolrs/raw/master/screenshots/vertical.gif) | ![Blend](https://github.com/rumboalla/coolrs/raw/master/screenshots/blend.gif)
@@ -35,5 +35,5 @@ CoolRs is a collection of Android Renderscript effects.
 
 # License
 Copyright © 2019 rumboalla
-Licensed under the [MIT license](https://raw.githubusercontent.com/rumboalla/coolrs/master/LICENSE?token=AFBMOEUNMO3XMC3IRBLGDJK5U5EO6).
+Licensed under the [MIT license](https://github.com/rumboalla/coolrs/raw/master/LICENSE).
 
