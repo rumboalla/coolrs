@@ -19,14 +19,14 @@ import com.coolrs.lib.filter.BoxBlurFilterEffect
 import com.coolrs.lib.filter.EdgeFilterEffect
 import com.coolrs.lib.filter.EmbossFilterEffect
 import com.coolrs.lib.filter.SharpenFilterEffect
-import com.coolrs.lib.fire.IceFireEffect
 import com.coolrs.lib.fire.CoolFireEffect
 import com.coolrs.lib.fire.FireEffect
 import com.coolrs.lib.fire.FirePalette
-import com.coolrs.lib.fire.SmokeFireEffect
-import com.coolrs.lib.fire.PoisonFireEffect
+import com.coolrs.lib.fire.IceFireEffect
 import com.coolrs.lib.fire.PinkFireEffect
+import com.coolrs.lib.fire.PoisonFireEffect
 import com.coolrs.lib.fire.PurpleFireEffect
+import com.coolrs.lib.fire.SmokeFireEffect
 import com.coolrs.lib.fire.TextFireEffect
 import com.coolrs.lib.transition.BlendTransitionEffect
 import com.coolrs.lib.transition.HorizontalTransitionEffect
