@@ -1,5 +1,5 @@
 # CoolRs [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CoolRs-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7946)
-CoolRs is a collection of Android Renderscript effects.
+CoolRs is a collection of Android RenderScript effects.
 
 # Fire
 ![Fire](https://github.com/rumboalla/coolrs/raw/master/screenshots/fire.gif) | ![Cool](https://github.com/rumboalla/coolrs/raw/master/screenshots/cool.gif) | ![Smoke](https://github.com/rumboalla/coolrs/raw/master/screenshots/smoke.gif) | ![Poison](https://github.com/rumboalla/coolrs/raw/master/screenshots/poison.gif) 
